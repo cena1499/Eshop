@@ -1,0 +1,714 @@
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\appsettings.Development.json
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\appsettings.json
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.exe
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.deps.json
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.runtimeconfig.json
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.runtimeconfig.dev.json
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ref\Karlik.Eshop.Web.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.pdb
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.Views.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.Views.pdb
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.csproj.AssemblyReference.cache
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.AssemblyInfoInputs.cache
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.AssemblyInfo.cs
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.csproj.CoreCompileInputs.cache
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorAssemblyInfo.cache
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorAssemblyInfo.cs
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\staticwebassets\Karlik.Eshop.Web.StaticWebAssets.Manifest.cache
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\staticwebassets\Karlik.Eshop.Web.StaticWebAssets.xml
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\scopedcss\bundle\Karlik.Eshop.Web.styles.css
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.TagHelpers.input.cache
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.TagHelpers.output.cache
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorCoreGenerate.cache
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorTargetAssemblyInfo.cache
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorTargetAssemblyInfo.cs
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.Views.pdb
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\ref\Karlik.Eshop.Web.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.pdb
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.genruntimeconfig.cache
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.csproj.CopyComplete
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Humanizer.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\appsettings.Development.json
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\appsettings.json
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.exe
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.deps.json
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.runtimeconfig.json
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.runtimeconfig.dev.json
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ref\Karlik.Eshop.Web.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.pdb
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.Views.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.Views.pdb
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Humanizer.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.csproj.AssemblyReference.cache
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.AssemblyInfoInputs.cache
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.AssemblyInfo.cs
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.csproj.CoreCompileInputs.cache
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorAssemblyInfo.cache
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorAssemblyInfo.cs
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\staticwebassets\Karlik.Eshop.Web.StaticWebAssets.Manifest.cache
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\staticwebassets\Karlik.Eshop.Web.StaticWebAssets.xml
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\scopedcss\bundle\Karlik.Eshop.Web.styles.css
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.TagHelpers.input.cache
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.TagHelpers.output.cache
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorCoreGenerate.cache
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorTargetAssemblyInfo.cache
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorTargetAssemblyInfo.cs
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.Views.pdb
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.csproj.CopyComplete
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\ref\Karlik.Eshop.Web.dll
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.pdb
+F:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.genruntimeconfig.cache
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\appsettings.json
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.exe
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.deps.json
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.runtimeconfig.json
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.runtimeconfig.dev.json
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ref\Karlik.Eshop.Web.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.pdb
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.Views.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.Views.pdb
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Humanizer.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.csproj.AssemblyReference.cache
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.AssemblyInfoInputs.cache
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.AssemblyInfo.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.csproj.CoreCompileInputs.cache
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorAssemblyInfo.cache
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorAssemblyInfo.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\staticwebassets\Karlik.Eshop.Web.StaticWebAssets.Manifest.cache
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\staticwebassets\Karlik.Eshop.Web.StaticWebAssets.xml
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\scopedcss\bundle\Karlik.Eshop.Web.styles.css
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.TagHelpers.input.cache
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.TagHelpers.output.cache
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorCoreGenerate.cache
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorTargetAssemblyInfo.cache
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorTargetAssemblyInfo.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.Views.pdb
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.csproj.CopyComplete
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\ref\Karlik.Eshop.Web.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.pdb
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.genruntimeconfig.cache
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\Select.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\Create.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\Edit.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\CreateEditForm.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\CreateEditForm.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Select.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.pdb
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\appsettings.Development.json
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\appsettings.json
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.exe
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.deps.json
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.runtimeconfig.json
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.runtimeconfig.dev.json
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ref\Karlik.Eshop.Web.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.pdb
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.Views.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.Views.pdb
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Humanizer.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.csproj.AssemblyReference.cache
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.AssemblyInfoInputs.cache
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.AssemblyInfo.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.csproj.CoreCompileInputs.cache
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorAssemblyInfo.cache
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorAssemblyInfo.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\staticwebassets\Karlik.Eshop.Web.StaticWebAssets.Manifest.cache
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\staticwebassets\Karlik.Eshop.Web.StaticWebAssets.xml
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\scopedcss\bundle\Karlik.Eshop.Web.styles.css
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.TagHelpers.input.cache
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.TagHelpers.output.cache
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorCoreGenerate.cache
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\Create.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\CreateEditForm.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\Edit.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\Select.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\CreateEditForm.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Select.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorTargetAssemblyInfo.cache
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorTargetAssemblyInfo.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.Views.pdb
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.csproj.CopyComplete
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\ref\Karlik.Eshop.Web.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.genruntimeconfig.cache
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\MySqlConnector.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Product\Detail.cshtml.g.cs
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\MySqlConnector.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Product\Detail.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Security\Views\Account\Login.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Security\Views\Account\Register.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Security\Views\_ViewImports.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Security\Views\_ViewStart.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderItems\Create.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderItems\Delete.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderItems\Details.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderItems\Edit.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderItems\Index.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Create.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Delete.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Details.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Edit.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Index.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Create.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Delete.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Details.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Customer\Views\CustomerOrders\Index.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Serilog.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\5. sem\asp\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.exe
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.deps.json
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.runtimeconfig.json
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.runtimeconfig.dev.json
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ref\Karlik.Eshop.Web.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.pdb
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.Views.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Karlik.Eshop.Web.Views.pdb
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Serilog.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.csproj.AssemblyReference.cache
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.AssemblyInfoInputs.cache
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.AssemblyInfo.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.csproj.CoreCompileInputs.cache
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorAssemblyInfo.cache
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorAssemblyInfo.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\staticwebassets\Karlik.Eshop.Web.StaticWebAssets.Manifest.cache
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\staticwebassets\Karlik.Eshop.Web.StaticWebAssets.xml
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\scopedcss\bundle\Karlik.Eshop.Web.styles.css
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.TagHelpers.input.cache
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.TagHelpers.output.cache
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorCoreGenerate.cache
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\Create.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\CreateEditForm.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\Edit.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Carousel\Select.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderItems\Create.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderItems\Delete.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderItems\Details.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderItems\Edit.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\OrderItems\Index.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Create.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Delete.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Details.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Edit.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Index.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\CreateEditForm.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Select.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Create.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Delete.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Details.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Customer\Views\CustomerOrders\Index.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Security\Views\Account\Login.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Security\Views\Account\Register.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Security\Views\_ViewImports.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Areas\Security\Views\_ViewStart.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Product\Detail.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorTargetAssemblyInfo.cache
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.RazorTargetAssemblyInfo.cs
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.Views.pdb
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.csproj.CopyComplete
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\ref\Karlik.Eshop.Web.dll
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.pdb
+C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web\obj\Debug\net5.0\Karlik.Eshop.Web.genruntimeconfig.cache

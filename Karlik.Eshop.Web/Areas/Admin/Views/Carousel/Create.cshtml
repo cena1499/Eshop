@@ -1,0 +1,21 @@
+﻿@using Karlik.Eshop.Web.Areas.Admin.Controllers
+@model CarouselViewModel
+@{
+    ViewData["Title"] = "Carousel Item create";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Vytvoreni carousel itemu</p>
+
+@{
+    ViewBag.Action = nameof(CarouselController.Create);
+}
+
+<partial name="CreateEditForm" model="Model">
+
+@section Scripts
+{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+    <script src="~/js/Validation/FileContentTypeValidation.js"></script>
+}

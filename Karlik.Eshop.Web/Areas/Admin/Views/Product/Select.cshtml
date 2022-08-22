@@ -1,0 +1,59 @@
+﻿@model ProductsViewModel
+@{
+    ViewData["Title"] = "Product Items";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Stranka pro zobrazeni vsech product itemu pro admina.</p>
+
+<a class="btn btn-success mb-2" asp-action="Create">Vytvorit Carousel item</a>
+
+@if (Model != null && Model.ProductItems.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Name of Product</th>
+                <th scope="col">Name of Product CZ</th>
+                <th scope="col">SKU</th>
+                <th scope="col">Price</th>
+                <th scope="col">Sale</th>
+                <th scope="col">Image Source</th>
+                <th scope="col">Image Alt</th>
+                <th scope="col">Image Alt CZ</th>
+                <th scope="col">Edit</th>
+                <th scope="col">Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                for (int i = 0; i < Model.ProductItems.Count; i++)
+                {
+                    <tr>
+                        <th scope="row">@Model.ProductItems[i].ID</th>
+                        <td>@Model.ProductItems[i].ProductName</td>
+                        <td>@Model.ProductItems[i].ProductNameCZ</td>
+                        <td>@Model.ProductItems[i].SKU</td>
+                        <td>@Model.ProductItems[i].Price</td>
+                        <td>@Model.ProductItems[i].Sale</td>
+                        <td>@Model.ProductItems[i].ImageSource</td>
+                        <td>@Model.ProductItems[i].ImageAlt</td>
+                        <td>@Model.ProductItems[i].ImageAltCZ</td>
+                        <td><a class="btn btn-info" asp-action="Edit" asp-route-ID="@Model.ProductItems[i].ID">Upravit</a></td>
+                        <td><a class="btn btn-danger" asp-action="Delete" asp-route-ID="@Model.ProductItems[i].ID" onclick="return ConfirmDelete();">Smazat</a></td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <h1>Tabulka je prazdna.</h1>
+}
+
+@section Scripts
+{
+    <script src="~/js/alert.js"></script>
+}

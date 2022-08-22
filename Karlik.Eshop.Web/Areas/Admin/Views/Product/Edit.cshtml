@@ -1,0 +1,14 @@
+﻿@using Karlik.Eshop.Web.Areas.Admin.Controllers
+@model ProductViewModel
+@{
+    ViewData["Title"] = "Product Edit";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Editace product itemu</p>
+
+@{
+    ViewBag.Action = nameof(ProductController.Edit);
+}
+
+<partial name="CreateEditForm" model="Model">

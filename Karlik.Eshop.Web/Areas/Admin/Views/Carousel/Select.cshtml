@@ -1,0 +1,49 @@
+﻿@model CarouselsViewModel
+@{
+    ViewData["Title"] = "Carousel Items";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Stranka pro zobrazeni vsech carousel itemu pro admina.</p>
+
+<a class="btn btn-success mb-2" asp-action="Create">Vytvorit Carousel item</a>
+
+@if (Model != null && Model.CarouselItems.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Image Source</th>
+                <th scope="col">Image Alt</th>
+                <th scope="col">Image Alt CZ</th>
+                <th scope="col">Edit</th>
+                <th scope="col">Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                for (int i = 0; i < Model.CarouselItems.Count; i++)
+                {
+                    <tr>
+                        <th scope="row">@Model.CarouselItems[i].ID</th>
+                        <td>@Model.CarouselItems[i].ImageSource</td>
+                        <td>@Model.CarouselItems[i].ImageAlt</td>
+                        <td>@Model.CarouselItems[i].ImageAltCZ</td>
+                        <td><a class="btn btn-info" asp-action="Edit" asp-route-ID="@Model.CarouselItems[i].ID">Upravit</a></td>
+                        <td><a class="btn btn-danger" asp-action="Delete" asp-route-ID="@Model.CarouselItems[i].ID" onclick="return ConfirmDelete();">Smazat</a></td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+} 
+else 
+{ 
+    <h1>Tabulka je prazdna.</h1>              
+}
+
+@section Scripts
+{
+    <script src="~/js/alert.js"></script>
+}

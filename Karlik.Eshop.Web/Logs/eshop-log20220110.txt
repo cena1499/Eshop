@@ -1,0 +1,610 @@
+2022-01-10T19:35:32.2012882+01:00  [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T19:35:36.4654739+01:00  [ERR] An error occurred using the connection to database '""' on server '"localhost"'. (5fc3407c)
+2022-01-10T20:28:45.9328608+01:00  [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:28:46.2390957+01:00  [INF] Executed DbCommand ("12"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE DATABASE `Karlik.eshop`;" (0723d8ff)
+2022-01-10T20:28:46.3876123+01:00  [INF] Executed DbCommand ("55"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE `__EFMigrationsHistory` (
+    `MigrationId` varchar(150) CHARACTER SET utf8mb4 NOT NULL,
+    `ProductVersion` varchar(32) CHARACTER SET utf8mb4 NOT NULL,
+    CONSTRAINT `PK___EFMigrationsHistory` PRIMARY KEY (`MigrationId`)
+) CHARACTER SET utf8mb4;" (0723d8ff)
+2022-01-10T20:28:46.4042424+01:00  [INF] Executed DbCommand ("8"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1 FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA='Karlik.eshop' AND TABLE_NAME='__EFMigrationsHistory';" (0723d8ff)
+2022-01-10T20:28:46.4098502+01:00  [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `MigrationId`, `ProductVersion`
+FROM `__EFMigrationsHistory`
+ORDER BY `MigrationId`;" (0723d8ff)
+2022-01-10T20:28:46.4211838+01:00  [INF] Applying migration '"20211020125752_MySql_1.0.0"'. (0e2ac64d)
+2022-01-10T20:28:46.4680215+01:00  [INF] Executed DbCommand ("38"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""ALTER DATABASE CHARACTER SET utf8mb4;" (0723d8ff)
+2022-01-10T20:28:46.5412927+01:00  [INF] Executed DbCommand ("73"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE `CarouselItem` (
+    `ID` int NOT NULL AUTO_INCREMENT,
+    `ImageSource` varchar(255) CHARACTER SET utf8mb4 NULL,
+    `ImageAlt` varchar(50) CHARACTER SET utf8mb4 NULL,
+    CONSTRAINT `PK_CarouselItem` PRIMARY KEY (`ID`)
+) CHARACTER SET utf8mb4;" (0723d8ff)
+2022-01-10T20:28:46.5580465+01:00  [INF] Executed DbCommand ("17"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO `__EFMigrationsHistory` (`MigrationId`, `ProductVersion`)
+VALUES ('20211020125752_MySql_1.0.0', '5.0.11');" (0723d8ff)
+2022-01-10T20:28:46.5586921+01:00  [INF] Applying migration '"20211020130519_MySql_1.0.1"'. (0e2ac64d)
+2022-01-10T20:28:46.6685497+01:00  [INF] Executed DbCommand ("105"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""ALTER TABLE `CarouselItem` MODIFY COLUMN `ImageSource` varchar(255) CHARACTER SET utf8mb4 NOT NULL DEFAULT '';" (0723d8ff)
+2022-01-10T20:28:46.6758730+01:00  [INF] Executed DbCommand ("7"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO `__EFMigrationsHistory` (`MigrationId`, `ProductVersion`)
+VALUES ('20211020130519_MySql_1.0.1', '5.0.11');" (0723d8ff)
+2022-01-10T20:28:46.6764171+01:00  [INF] Applying migration '"20211103140603_My_Sql_1.0.2"'. (0e2ac64d)
+2022-01-10T20:28:46.7300158+01:00  [INF] Executed DbCommand ("48"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE `ProductItem` (
+    `ID` int NOT NULL AUTO_INCREMENT,
+    `SKU` varchar(20) CHARACTER SET utf8mb4 NULL,
+    `ProductName` varchar(50) CHARACTER SET utf8mb4 NULL,
+    `Price` double NOT NULL,
+    `Sale` double NOT NULL,
+    `Detail` varchar(1024) CHARACTER SET utf8mb4 NULL,
+    `ImageSource` varchar(255) CHARACTER SET utf8mb4 NOT NULL,
+    `ImageAlt` varchar(50) CHARACTER SET utf8mb4 NULL,
+    CONSTRAINT `PK_ProductItem` PRIMARY KEY (`ID`)
+) CHARACTER SET utf8mb4;" (0723d8ff)
+2022-01-10T20:28:46.7374167+01:00  [INF] Executed DbCommand ("7"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO `__EFMigrationsHistory` (`MigrationId`, `ProductVersion`)
+VALUES ('20211103140603_My_Sql_1.0.2', '5.0.11');" (0723d8ff)
+2022-01-10T20:28:46.7379134+01:00  [INF] Applying migration '"20211124143812_MySql_1.0.3"'. (0e2ac64d)
+2022-01-10T20:28:46.8063648+01:00  [INF] Executed DbCommand ("48"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE `Roles` (
+    `Id` int NOT NULL AUTO_INCREMENT,
+    `Name` varchar(256) CHARACTER SET utf8mb4 NULL,
+    `NormalizedName` varchar(256) CHARACTER SET utf8mb4 NULL,
+    `ConcurrencyStamp` longtext CHARACTER SET utf8mb4 NULL,
+    CONSTRAINT `PK_Roles` PRIMARY KEY (`Id`)
+) CHARACTER SET utf8mb4;" (0723d8ff)
+2022-01-10T20:28:46.8542386+01:00  [INF] Executed DbCommand ("48"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE `Users` (
+    `Id` int NOT NULL AUTO_INCREMENT,
+    `FirstName` longtext CHARACTER SET utf8mb4 NULL,
+    `LastName` longtext CHARACTER SET utf8mb4 NULL,
+    `UserName` varchar(256) CHARACTER SET utf8mb4 NULL,
+    `NormalizedUserName` varchar(256) CHARACTER SET utf8mb4 NULL,
+    `Email` varchar(256) CHARACTER SET utf8mb4 NULL,
+    `NormalizedEmail` varchar(256) CHARACTER SET utf8mb4 NULL,
+    `EmailConfirmed` tinyint(1) NOT NULL,
+    `PasswordHash` longtext CHARACTER SET utf8mb4 NULL,
+    `SecurityStamp` longtext CHARACTER SET utf8mb4 NULL,
+    `ConcurrencyStamp` longtext CHARACTER SET utf8mb4 NULL,
+    `PhoneNumber` longtext CHARACTER SET utf8mb4 NULL,
+    `PhoneNumberConfirmed` tinyint(1) NOT NULL,
+    `TwoFactorEnabled` tinyint(1) NOT NULL,
+    `LockoutEnd` datetime(6) NULL,
+    `LockoutEnabled` tinyint(1) NOT NULL,
+    `AccessFailedCount` int NOT NULL,
+    CONSTRAINT `PK_Users` PRIMARY KEY (`Id`)
+) CHARACTER SET utf8mb4;" (0723d8ff)
+2022-01-10T20:28:46.9219943+01:00  [INF] Executed DbCommand ("64"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE `RoleClaims` (
+    `Id` int NOT NULL AUTO_INCREMENT,
+    `RoleId` int NOT NULL,
+    `ClaimType` longtext CHARACTER SET utf8mb4 NULL,
+    `ClaimValue` longtext CHARACTER SET utf8mb4 NULL,
+    CONSTRAINT `PK_RoleClaims` PRIMARY KEY (`Id`),
+    CONSTRAINT `FK_RoleClaims_Roles_RoleId` FOREIGN KEY (`RoleId`) REFERENCES `Roles` (`Id`) ON DELETE CASCADE
+) CHARACTER SET utf8mb4;" (0723d8ff)
+2022-01-10T20:28:46.9867431+01:00  [INF] Executed DbCommand ("65"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE `UserClaims` (
+    `Id` int NOT NULL AUTO_INCREMENT,
+    `UserId` int NOT NULL,
+    `ClaimType` longtext CHARACTER SET utf8mb4 NULL,
+    `ClaimValue` longtext CHARACTER SET utf8mb4 NULL,
+    CONSTRAINT `PK_UserClaims` PRIMARY KEY (`Id`),
+    CONSTRAINT `FK_UserClaims_Users_UserId` FOREIGN KEY (`UserId`) REFERENCES `Users` (`Id`) ON DELETE CASCADE
+) CHARACTER SET utf8mb4;" (0723d8ff)
+2022-01-10T20:28:47.0489756+01:00  [INF] Executed DbCommand ("62"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE `UserLogins` (
+    `LoginProvider` varchar(255) CHARACTER SET utf8mb4 NOT NULL,
+    `ProviderKey` varchar(255) CHARACTER SET utf8mb4 NOT NULL,
+    `ProviderDisplayName` longtext CHARACTER SET utf8mb4 NULL,
+    `UserId` int NOT NULL,
+    CONSTRAINT `PK_UserLogins` PRIMARY KEY (`LoginProvider`, `ProviderKey`),
+    CONSTRAINT `FK_UserLogins_Users_UserId` FOREIGN KEY (`UserId`) REFERENCES `Users` (`Id`) ON DELETE CASCADE
+) CHARACTER SET utf8mb4;" (0723d8ff)
+2022-01-10T20:28:47.1258256+01:00  [INF] Executed DbCommand ("77"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE `UserRoles` (
+    `UserId` int NOT NULL,
+    `RoleId` int NOT NULL,
+    CONSTRAINT `PK_UserRoles` PRIMARY KEY (`UserId`, `RoleId`),
+    CONSTRAINT `FK_UserRoles_Roles_RoleId` FOREIGN KEY (`RoleId`) REFERENCES `Roles` (`Id`) ON DELETE CASCADE,
+    CONSTRAINT `FK_UserRoles_Users_UserId` FOREIGN KEY (`UserId`) REFERENCES `Users` (`Id`) ON DELETE CASCADE
+) CHARACTER SET utf8mb4;" (0723d8ff)
+2022-01-10T20:28:47.1861861+01:00  [INF] Executed DbCommand ("60"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE `UserTokens` (
+    `UserId` int NOT NULL,
+    `LoginProvider` varchar(255) CHARACTER SET utf8mb4 NOT NULL,
+    `Name` varchar(255) CHARACTER SET utf8mb4 NOT NULL,
+    `Value` longtext CHARACTER SET utf8mb4 NULL,
+    CONSTRAINT `PK_UserTokens` PRIMARY KEY (`UserId`, `LoginProvider`, `Name`),
+    CONSTRAINT `FK_UserTokens_Users_UserId` FOREIGN KEY (`UserId`) REFERENCES `Users` (`Id`) ON DELETE CASCADE
+) CHARACTER SET utf8mb4;" (0723d8ff)
+2022-01-10T20:28:47.2313903+01:00  [INF] Executed DbCommand ("45"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX `IX_RoleClaims_RoleId` ON `RoleClaims` (`RoleId`);" (0723d8ff)
+2022-01-10T20:28:47.2658284+01:00  [INF] Executed DbCommand ("34"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE UNIQUE INDEX `RoleNameIndex` ON `Roles` (`NormalizedName`);" (0723d8ff)
+2022-01-10T20:28:47.3078199+01:00  [INF] Executed DbCommand ("42"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX `IX_UserClaims_UserId` ON `UserClaims` (`UserId`);" (0723d8ff)
+2022-01-10T20:28:47.3470397+01:00  [INF] Executed DbCommand ("39"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX `IX_UserLogins_UserId` ON `UserLogins` (`UserId`);" (0723d8ff)
+2022-01-10T20:28:47.3871081+01:00  [INF] Executed DbCommand ("40"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX `IX_UserRoles_RoleId` ON `UserRoles` (`RoleId`);" (0723d8ff)
+2022-01-10T20:28:47.4292556+01:00  [INF] Executed DbCommand ("42"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX `EmailIndex` ON `Users` (`NormalizedEmail`);" (0723d8ff)
+2022-01-10T20:28:47.4668284+01:00  [INF] Executed DbCommand ("37"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE UNIQUE INDEX `UserNameIndex` ON `Users` (`NormalizedUserName`);" (0723d8ff)
+2022-01-10T20:28:47.4741929+01:00  [INF] Executed DbCommand ("7"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO `__EFMigrationsHistory` (`MigrationId`, `ProductVersion`)
+VALUES ('20211124143812_MySql_1.0.3', '5.0.11');" (0723d8ff)
+2022-01-10T20:28:47.4748270+01:00  [INF] Applying migration '"20211215131822_MySql_1.0.4"'. (0e2ac64d)
+2022-01-10T20:28:47.5411868+01:00  [INF] Executed DbCommand ("53"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE `Order` (
+    `ID` int NOT NULL AUTO_INCREMENT,
+    `DateTimeCreated` datetime(6) NOT NULL DEFAULT NOW(6),
+    `OrderNumber` varchar(25) CHARACTER SET utf8mb4 NOT NULL,
+    `TotalPrice` double NOT NULL,
+    `UserId` int NOT NULL,
+    CONSTRAINT `PK_Order` PRIMARY KEY (`ID`),
+    CONSTRAINT `FK_Order_Users_UserId` FOREIGN KEY (`UserId`) REFERENCES `Users` (`Id`) ON DELETE CASCADE
+) CHARACTER SET utf8mb4;" (0723d8ff)
+2022-01-10T20:28:47.6085951+01:00  [INF] Executed DbCommand ("67"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE `OrderItem` (
+    `ID` int NOT NULL AUTO_INCREMENT,
+    `OrderID` int NOT NULL,
+    `ProductID` int NOT NULL,
+    `Amount` int NOT NULL,
+    `Price` double NOT NULL,
+    CONSTRAINT `PK_OrderItem` PRIMARY KEY (`ID`),
+    CONSTRAINT `FK_OrderItem_Order_OrderID` FOREIGN KEY (`OrderID`) REFERENCES `Order` (`ID`) ON DELETE CASCADE,
+    CONSTRAINT `FK_OrderItem_ProductItem_ProductID` FOREIGN KEY (`ProductID`) REFERENCES `ProductItem` (`ID`) ON DELETE CASCADE
+) CHARACTER SET utf8mb4;" (0723d8ff)
+2022-01-10T20:28:47.6540225+01:00  [INF] Executed DbCommand ("45"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX `IX_Order_UserId` ON `Order` (`UserId`);" (0723d8ff)
+2022-01-10T20:28:47.6904009+01:00  [INF] Executed DbCommand ("36"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX `IX_OrderItem_OrderID` ON `OrderItem` (`OrderID`);" (0723d8ff)
+2022-01-10T20:28:47.7266861+01:00  [INF] Executed DbCommand ("36"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE INDEX `IX_OrderItem_ProductID` ON `OrderItem` (`ProductID`);" (0723d8ff)
+2022-01-10T20:28:47.7337159+01:00  [INF] Executed DbCommand ("7"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO `__EFMigrationsHistory` (`MigrationId`, `ProductVersion`)
+VALUES ('20211215131822_MySql_1.0.4', '5.0.11');" (0723d8ff)
+2022-01-10T20:30:27.0383371+01:00  [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:31:57.6320426+01:00  [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:32:38.8941843+01:00  [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:32:39.1381417+01:00  [INF] Executed DbCommand ("12"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1 FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA='Karlik.eshop' AND TABLE_NAME='__EFMigrationsHistory';" (0723d8ff)
+2022-01-10T20:32:39.1491818+01:00  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1 FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA='Karlik.eshop' AND TABLE_NAME='__EFMigrationsHistory';" (0723d8ff)
+2022-01-10T20:32:39.1576901+01:00  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `MigrationId`, `ProductVersion`
+FROM `__EFMigrationsHistory`
+ORDER BY `MigrationId`;" (0723d8ff)
+2022-01-10T20:32:39.1715388+01:00  [INF] Applying migration '"20220110193157_MySql_1.0.5"'. (0e2ac64d)
+2022-01-10T20:32:39.2088001+01:00  [INF] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO `__EFMigrationsHistory` (`MigrationId`, `ProductVersion`)
+VALUES ('20220110193157_MySql_1.0.5', '5.0.11');" (0723d8ff)
+2022-01-10T20:44:22.4532525+01:00  [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:44:22.7709809+01:00  [INF] Executed DbCommand ("10"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE WHEN COUNT(*) = 0 THEN FALSE ELSE TRUE END
+FROM information_schema.tables
+WHERE table_type = 'BASE TABLE' AND table_schema = 'Karlik.eshop'" (0723d8ff)
+2022-01-10T20:44:22.9136188+01:00  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM `CarouselItem` AS `c`" (0723d8ff)
+2022-01-10T20:44:22.9194790+01:00  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM `ProductItem` AS `p`" (0723d8ff)
+2022-01-10T20:44:23.0197519+01:00  [INF] Executed DbCommand ("15"ms) [Parameters=["@__normalizedName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `r`.`Id`, `r`.`ConcurrencyStamp`, `r`.`Name`, `r`.`NormalizedName`
+FROM `Roles` AS `r`
+WHERE `r`.`NormalizedName` = @__normalizedName_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:44:23.0671596+01:00  [WRN] Role "(null)" validation failed: "DuplicateRoleName". (60d773c7)
+2022-01-10T20:44:23.0867274+01:00  [INF] Executed DbCommand ("5"ms) [Parameters=["@__normalizedName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `r`.`Id`, `r`.`ConcurrencyStamp`, `r`.`Name`, `r`.`NormalizedName`
+FROM `Roles` AS `r`
+WHERE `r`.`NormalizedName` = @__normalizedName_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:44:23.0920564+01:00  [WRN] Role "(null)" validation failed: "DuplicateRoleName". (60d773c7)
+2022-01-10T20:44:23.0957903+01:00  [INF] Executed DbCommand ("1"ms) [Parameters=["@__normalizedName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `r`.`Id`, `r`.`ConcurrencyStamp`, `r`.`Name`, `r`.`NormalizedName`
+FROM `Roles` AS `r`
+WHERE `r`.`NormalizedName` = @__normalizedName_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:44:23.0971934+01:00  [WRN] Role "(null)" validation failed: "DuplicateRoleName". (60d773c7)
+2022-01-10T20:44:23.1458075+01:00  [INF] User profile is available. Using '"C:\Users\karli\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest. (7ac5e29c)
+2022-01-10T20:44:23.1713048+01:00  [INF] Executed DbCommand ("2"ms) [Parameters=["@__normalizedUserName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `u`.`Id`, `u`.`AccessFailedCount`, `u`.`ConcurrencyStamp`, `u`.`Email`, `u`.`EmailConfirmed`, `u`.`FirstName`, `u`.`LastName`, `u`.`LockoutEnabled`, `u`.`LockoutEnd`, `u`.`NormalizedEmail`, `u`.`NormalizedUserName`, `u`.`PasswordHash`, `u`.`PhoneNumber`, `u`.`PhoneNumberConfirmed`, `u`.`SecurityStamp`, `u`.`TwoFactorEnabled`, `u`.`UserName`
+FROM `Users` AS `u`
+WHERE `u`.`NormalizedUserName` = @__normalizedUserName_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:44:23.2176101+01:00  [INF] Executed DbCommand ("1"ms) [Parameters=["@__normalizedUserName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `u`.`Id`, `u`.`AccessFailedCount`, `u`.`ConcurrencyStamp`, `u`.`Email`, `u`.`EmailConfirmed`, `u`.`FirstName`, `u`.`LastName`, `u`.`LockoutEnabled`, `u`.`LockoutEnd`, `u`.`NormalizedEmail`, `u`.`NormalizedUserName`, `u`.`PasswordHash`, `u`.`PhoneNumber`, `u`.`PhoneNumberConfirmed`, `u`.`SecurityStamp`, `u`.`TwoFactorEnabled`, `u`.`UserName`
+FROM `Users` AS `u`
+WHERE `u`.`NormalizedUserName` = @__normalizedUserName_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:44:23.4397547+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-01-10T20:44:23.4421300+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-01-10T20:44:23.4448677+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-01-10T20:44:23.4464633+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-01-10T20:44:23.4480444+01:00  [INF] Content root path: "C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web" (b5d60022)
+2022-01-10T20:44:24.3788319+01:00 0HMEKE6D7VVNA:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/ - - (ca22a1cb)
+2022-01-10T20:44:24.4898252+01:00 0HMEKE6D7VVNA:00000001 [INF] Executing endpoint '"Karlik.Eshop.Web.Controllers.HomeController.Index (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:44:24.5209424+01:00 0HMEKE6D7VVNA:00000001 [INF] Route matched with "{action = \"Index\", controller = \"Home\", area = \"\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "Karlik.Eshop.Web.Controllers.HomeController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:44:24.5266962+01:00 0HMEKE6D7VVNA:00000001 [INF] Byla zobrazena hlavni stranka (c6e7581b)
+2022-01-10T20:44:24.5290112+01:00 0HMEKE6D7VVNA:00000001 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:44:24.5336135+01:00 0HMEKE6D7VVNA:00000001 [INF] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `c`.`ID`, `c`.`ImageAlt`, `c`.`ImageSource`
+FROM `CarouselItem` AS `c`" (0723d8ff)
+2022-01-10T20:44:24.5433543+01:00 0HMEKE6D7VVNA:00000001 [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`" (0723d8ff)
+2022-01-10T20:44:24.5716678+01:00 0HMEKE6D7VVNA:00000001 [INF] Executing ViewResult, running view "Index". (c83d0e25)
+2022-01-10T20:44:24.6450319+01:00 0HMEKE6D7VVNA:00000001 [INF] Accessing expired session, Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950" (08c5a9e7)
+2022-01-10T20:44:24.6774348+01:00 0HMEKE6D7VVNA:00000001 [INF] Executed ViewResult - view "Index" executed in 104.7926ms. (f66409e9)
+2022-01-10T20:44:24.6781575+01:00 0HMEKE6D7VVNA:00000001 [INF] Executed action "Karlik.Eshop.Web.Controllers.HomeController.Index (Karlik.Eshop.Web)" in 156.4957ms (afa2e885)
+2022-01-10T20:44:24.6782498+01:00 0HMEKE6D7VVNA:00000001 [INF] Executed endpoint '"Karlik.Eshop.Web.Controllers.HomeController.Index (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:44:24.6855375+01:00 0HMEKE6D7VVNA:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 200 - text/html;+charset=utf-8 311.9817ms (791a596a)
+2022-01-10T20:44:24.7410697+01:00 0HMEKE6D7VVNA:00000005 [INF] Request starting HTTP/2 GET https://localhost:5001/img/product1.jpg - - (ca22a1cb)
+2022-01-10T20:44:24.7410628+01:00 0HMEKE6D7VVNA:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/img/Products/4vr3pzdv.ect.jpg - - (ca22a1cb)
+2022-01-10T20:44:24.7472783+01:00 0HMEKE6D7VVNA:00000003 [INF] The file "/img/Products/4vr3pzdv.ect.jpg" was not modified (f1f8d725)
+2022-01-10T20:44:24.7476130+01:00 0HMEKE6D7VVNA:00000005 [INF] Request finished HTTP/2 GET https://localhost:5001/img/product1.jpg - - - 404 0 - 6.4283ms (791a596a)
+2022-01-10T20:44:24.7482194+01:00 0HMEKE6D7VVNA:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/img/Products/4vr3pzdv.ect.jpg - - - 304 - image/jpeg 7.2628ms (791a596a)
+2022-01-10T20:44:28.0452732+01:00 0HMEKE6D7VVNA:00000007 [INF] Request starting HTTP/2 GET https://localhost:5001/Admin/Product/Select - - (ca22a1cb)
+2022-01-10T20:44:28.0823594+01:00 0HMEKE6D7VVNA:00000007 [INF] Authorization was successful. (0d575a54)
+2022-01-10T20:44:28.0828765+01:00 0HMEKE6D7VVNA:00000007 [INF] Executing endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Select (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:44:28.0843987+01:00 0HMEKE6D7VVNA:00000007 [INF] Route matched with "{area = \"Admin\", action = \"Select\", controller = \"Product\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Select()" on controller "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:44:28.1099370+01:00 0HMEKE6D7VVNA:00000007 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:44:28.1117904+01:00 0HMEKE6D7VVNA:00000007 [INF] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`" (0723d8ff)
+2022-01-10T20:44:28.1134053+01:00 0HMEKE6D7VVNA:00000007 [INF] Executing ViewResult, running view "Select". (c83d0e25)
+2022-01-10T20:44:28.1211782+01:00 0HMEKE6D7VVNA:00000007 [INF] Accessing expired session, Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950" (08c5a9e7)
+2022-01-10T20:44:28.1238400+01:00 0HMEKE6D7VVNA:00000007 [INF] Executed ViewResult - view "Select" executed in 11.142ms. (f66409e9)
+2022-01-10T20:44:28.1239158+01:00 0HMEKE6D7VVNA:00000007 [INF] Executed action "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Select (Karlik.Eshop.Web)" in 39.474ms (afa2e885)
+2022-01-10T20:44:28.1239514+01:00 0HMEKE6D7VVNA:00000007 [INF] Executed endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Select (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:44:28.1241068+01:00 0HMEKE6D7VVNA:00000007 [INF] Request finished HTTP/2 GET https://localhost:5001/Admin/Product/Select - - - 200 - text/html;+charset=utf-8 79.4296ms (791a596a)
+2022-01-10T20:44:30.4306864+01:00 0HMEKE6D7VVNA:00000009 [INF] Request starting HTTP/2 GET https://localhost:5001/Admin/Product/Edit/2 - - (ca22a1cb)
+2022-01-10T20:44:30.4436292+01:00 0HMEKE6D7VVNA:00000009 [INF] Authorization was successful. (0d575a54)
+2022-01-10T20:44:30.4439301+01:00 0HMEKE6D7VVNA:00000009 [INF] Executing endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:44:30.4612367+01:00 0HMEKE6D7VVNA:00000009 [INF] Route matched with "{area = \"Admin\", action = \"Edit\", controller = \"Product\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Edit(Int32)" on controller "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:44:30.4749264+01:00 0HMEKE6D7VVNA:00000009 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:44:30.4829310+01:00 0HMEKE6D7VVNA:00000009 [INF] Executed DbCommand ("3"ms) [Parameters=["@__ID_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`
+WHERE `p`.`ID` = @__ID_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:44:30.4838058+01:00 0HMEKE6D7VVNA:00000009 [INF] Executing ViewResult, running view "Edit". (c83d0e25)
+2022-01-10T20:44:30.5901388+01:00 0HMEKE6D7VVNA:00000009 [INF] Accessing expired session, Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950" (08c5a9e7)
+2022-01-10T20:44:30.5911901+01:00 0HMEKE6D7VVNA:00000009 [INF] Executed ViewResult - view "Edit" executed in 107.9073ms. (f66409e9)
+2022-01-10T20:44:30.5912478+01:00 0HMEKE6D7VVNA:00000009 [INF] Executed action "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)" in 129.9277ms (afa2e885)
+2022-01-10T20:44:30.5912836+01:00 0HMEKE6D7VVNA:00000009 [INF] Executed endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:44:30.5914107+01:00 0HMEKE6D7VVNA:00000009 [INF] Request finished HTTP/2 GET https://localhost:5001/Admin/Product/Edit/2 - - - 200 - text/html;+charset=utf-8 162.1186ms (791a596a)
+2022-01-10T20:44:38.1963337+01:00 0HMEKE6D7VVNA:0000000B [INF] Request starting HTTP/2 POST https://localhost:5001/Admin/Product/Edit/2 multipart/form-data;+boundary=----WebKitFormBoundaryF2IROBAoUJeonHQE 1190 (ca22a1cb)
+2022-01-10T20:44:38.1990758+01:00 0HMEKE6D7VVNA:0000000B [INF] Authorization was successful. (0d575a54)
+2022-01-10T20:44:38.1993463+01:00 0HMEKE6D7VVNA:0000000B [INF] Executing endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:44:38.2059446+01:00 0HMEKE6D7VVNA:0000000B [INF] Route matched with "{area = \"Admin\", action = \"Edit\", controller = \"Product\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Edit(Karlik.Eshop.Web.Models.Entity.ProductItem)" on controller "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:44:38.2289288+01:00 0HMEKE6D7VVNA:0000000B [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:44:38.2331307+01:00 0HMEKE6D7VVNA:0000000B [INF] Executed DbCommand ("1"ms) [Parameters=["@__product_ID_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`
+WHERE `p`.`ID` = @__product_ID_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:44:38.2511136+01:00 0HMEKE6D7VVNA:0000000B [INF] Executing RedirectResult, redirecting to "/Admin/Product/Select". (d98d540e)
+2022-01-10T20:44:38.2512561+01:00 0HMEKE6D7VVNA:0000000B [INF] Executed action "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)" in 45.2703ms (afa2e885)
+2022-01-10T20:44:38.2512795+01:00 0HMEKE6D7VVNA:0000000B [INF] Executed endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:44:38.2515204+01:00 0HMEKE6D7VVNA:0000000B [INF] Request finished HTTP/2 POST https://localhost:5001/Admin/Product/Edit/2 multipart/form-data;+boundary=----WebKitFormBoundaryF2IROBAoUJeonHQE 1190 - 302 0 - 55.2190ms (791a596a)
+2022-01-10T20:44:38.2544537+01:00 0HMEKE6D7VVNA:0000000D [INF] Request starting HTTP/2 GET https://localhost:5001/Admin/Product/Select - - (ca22a1cb)
+2022-01-10T20:44:38.2548577+01:00 0HMEKE6D7VVNA:0000000D [INF] Authorization was successful. (0d575a54)
+2022-01-10T20:44:38.2548867+01:00 0HMEKE6D7VVNA:0000000D [INF] Executing endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Select (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:44:38.2549939+01:00 0HMEKE6D7VVNA:0000000D [INF] Route matched with "{area = \"Admin\", action = \"Select\", controller = \"Product\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Select()" on controller "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:44:38.2551762+01:00 0HMEKE6D7VVNA:0000000D [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:44:38.2560643+01:00 0HMEKE6D7VVNA:0000000D [INF] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`" (0723d8ff)
+2022-01-10T20:44:38.2562258+01:00 0HMEKE6D7VVNA:0000000D [INF] Executing ViewResult, running view "Select". (c83d0e25)
+2022-01-10T20:44:38.2567006+01:00 0HMEKE6D7VVNA:0000000D [INF] Accessing expired session, Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950" (08c5a9e7)
+2022-01-10T20:44:38.2569697+01:00 0HMEKE6D7VVNA:0000000D [INF] Executed ViewResult - view "Select" executed in 0.7544ms. (f66409e9)
+2022-01-10T20:44:38.2569990+01:00 0HMEKE6D7VVNA:0000000D [INF] Executed action "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Select (Karlik.Eshop.Web)" in 1.9836ms (afa2e885)
+2022-01-10T20:44:38.2570231+01:00 0HMEKE6D7VVNA:0000000D [INF] Executed endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Select (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:44:38.2571192+01:00 0HMEKE6D7VVNA:0000000D [INF] Request finished HTTP/2 GET https://localhost:5001/Admin/Product/Select - - - 200 - text/html;+charset=utf-8 2.7916ms (791a596a)
+2022-01-10T20:44:41.3717839+01:00 0HMEKE6D7VVNA:0000000F [INF] Request starting HTTP/2 GET https://localhost:5001/Admin/Product/Edit/2 - - (ca22a1cb)
+2022-01-10T20:44:41.3722892+01:00 0HMEKE6D7VVNA:0000000F [INF] Authorization was successful. (0d575a54)
+2022-01-10T20:44:41.3723337+01:00 0HMEKE6D7VVNA:0000000F [INF] Executing endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:44:41.3724325+01:00 0HMEKE6D7VVNA:0000000F [INF] Route matched with "{area = \"Admin\", action = \"Edit\", controller = \"Product\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Edit(Int32)" on controller "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:44:41.3728447+01:00 0HMEKE6D7VVNA:0000000F [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:44:41.3742919+01:00 0HMEKE6D7VVNA:0000000F [INF] Executed DbCommand ("0"ms) [Parameters=["@__ID_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`
+WHERE `p`.`ID` = @__ID_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:44:41.3745546+01:00 0HMEKE6D7VVNA:0000000F [INF] Executing ViewResult, running view "Edit". (c83d0e25)
+2022-01-10T20:44:41.3776771+01:00 0HMEKE6D7VVNA:0000000F [INF] Accessing expired session, Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950" (08c5a9e7)
+2022-01-10T20:44:41.3784065+01:00 0HMEKE6D7VVNA:0000000F [INF] Executed ViewResult - view "Edit" executed in 3.8518ms. (f66409e9)
+2022-01-10T20:44:41.3784834+01:00 0HMEKE6D7VVNA:0000000F [INF] Executed action "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)" in 6.0162ms (afa2e885)
+2022-01-10T20:44:41.3785288+01:00 0HMEKE6D7VVNA:0000000F [INF] Executed endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:44:41.3787756+01:00 0HMEKE6D7VVNA:0000000F [INF] Request finished HTTP/2 GET https://localhost:5001/Admin/Product/Edit/2 - - - 200 - text/html;+charset=utf-8 7.0884ms (791a596a)
+2022-01-10T20:44:49.3140605+01:00 0HMEKE6D7VVNA:00000011 [INF] Request starting HTTP/2 POST https://localhost:5001/Admin/Product/Edit/2 multipart/form-data;+boundary=----WebKitFormBoundaryC0sv28vUJS10fqtH 1185 (ca22a1cb)
+2022-01-10T20:44:49.3165306+01:00 0HMEKE6D7VVNA:00000011 [INF] Authorization was successful. (0d575a54)
+2022-01-10T20:44:49.3167110+01:00 0HMEKE6D7VVNA:00000011 [INF] Executing endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:44:49.3171195+01:00 0HMEKE6D7VVNA:00000011 [INF] Route matched with "{area = \"Admin\", action = \"Edit\", controller = \"Product\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Edit(Karlik.Eshop.Web.Models.Entity.ProductItem)" on controller "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:44:49.3212205+01:00 0HMEKE6D7VVNA:00000011 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:44:49.3250475+01:00 0HMEKE6D7VVNA:00000011 [INF] Executed DbCommand ("1"ms) [Parameters=["@__product_ID_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`
+WHERE `p`.`ID` = @__product_ID_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:44:49.4038628+01:00 0HMEKE6D7VVNA:00000011 [INF] Executed DbCommand ("1"ms) [Parameters=["@p1='?' (DbType = Int32), @p0='?' (Size = 50)"], CommandType='Text', CommandTimeout='30']"
+""UPDATE `ProductItem` SET `ImageAlt` = @p0
+WHERE `ID` = @p1;
+SELECT ROW_COUNT();" (0723d8ff)
+2022-01-10T20:44:49.4319651+01:00 0HMEKE6D7VVNA:00000011 [INF] Executing RedirectResult, redirecting to "/Admin/Product/Select". (d98d540e)
+2022-01-10T20:44:49.4325565+01:00 0HMEKE6D7VVNA:00000011 [INF] Executed action "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)" in 115.3096ms (afa2e885)
+2022-01-10T20:44:49.4328563+01:00 0HMEKE6D7VVNA:00000011 [INF] Executed endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:44:49.4346400+01:00 0HMEKE6D7VVNA:00000011 [INF] Request finished HTTP/2 POST https://localhost:5001/Admin/Product/Edit/2 multipart/form-data;+boundary=----WebKitFormBoundaryC0sv28vUJS10fqtH 1185 - 302 0 - 120.9361ms (791a596a)
+2022-01-10T20:44:49.4375681+01:00 0HMEKE6D7VVNA:00000013 [INF] Request starting HTTP/2 GET https://localhost:5001/Admin/Product/Select - - (ca22a1cb)
+2022-01-10T20:44:49.4379405+01:00 0HMEKE6D7VVNA:00000013 [INF] Authorization was successful. (0d575a54)
+2022-01-10T20:44:49.4379677+01:00 0HMEKE6D7VVNA:00000013 [INF] Executing endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Select (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:44:49.4380285+01:00 0HMEKE6D7VVNA:00000013 [INF] Route matched with "{area = \"Admin\", action = \"Select\", controller = \"Product\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Select()" on controller "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:44:49.4381950+01:00 0HMEKE6D7VVNA:00000013 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:44:49.4392756+01:00 0HMEKE6D7VVNA:00000013 [INF] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`" (0723d8ff)
+2022-01-10T20:44:49.4398281+01:00 0HMEKE6D7VVNA:00000013 [INF] Executing ViewResult, running view "Select". (c83d0e25)
+2022-01-10T20:44:49.4408714+01:00 0HMEKE6D7VVNA:00000013 [INF] Accessing expired session, Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950" (08c5a9e7)
+2022-01-10T20:44:49.4411493+01:00 0HMEKE6D7VVNA:00000013 [INF] Executed ViewResult - view "Select" executed in 1.3576ms. (f66409e9)
+2022-01-10T20:44:49.4411841+01:00 0HMEKE6D7VVNA:00000013 [INF] Executed action "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Select (Karlik.Eshop.Web)" in 3.1346ms (afa2e885)
+2022-01-10T20:44:49.4412179+01:00 0HMEKE6D7VVNA:00000013 [INF] Executed endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Select (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:44:49.4413216+01:00 0HMEKE6D7VVNA:00000013 [INF] Request finished HTTP/2 GET https://localhost:5001/Admin/Product/Select - - - 200 - text/html;+charset=utf-8 3.9364ms (791a596a)
+2022-01-10T20:47:09.0050856+01:00  [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:47:09.3567666+01:00  [INF] Executed DbCommand ("11"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE WHEN COUNT(*) = 0 THEN FALSE ELSE TRUE END
+FROM information_schema.tables
+WHERE table_type = 'BASE TABLE' AND table_schema = 'Karlik.eshop'" (0723d8ff)
+2022-01-10T20:47:09.5237927+01:00  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM `CarouselItem` AS `c`" (0723d8ff)
+2022-01-10T20:47:09.5294846+01:00  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM `ProductItem` AS `p`" (0723d8ff)
+2022-01-10T20:47:09.6461358+01:00  [INF] Executed DbCommand ("18"ms) [Parameters=["@__normalizedName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `r`.`Id`, `r`.`ConcurrencyStamp`, `r`.`Name`, `r`.`NormalizedName`
+FROM `Roles` AS `r`
+WHERE `r`.`NormalizedName` = @__normalizedName_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:47:09.6982765+01:00  [WRN] Role "(null)" validation failed: "DuplicateRoleName". (60d773c7)
+2022-01-10T20:47:09.7172618+01:00  [INF] Executed DbCommand ("5"ms) [Parameters=["@__normalizedName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `r`.`Id`, `r`.`ConcurrencyStamp`, `r`.`Name`, `r`.`NormalizedName`
+FROM `Roles` AS `r`
+WHERE `r`.`NormalizedName` = @__normalizedName_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:47:09.7228377+01:00  [WRN] Role "(null)" validation failed: "DuplicateRoleName". (60d773c7)
+2022-01-10T20:47:09.7273896+01:00  [INF] Executed DbCommand ("1"ms) [Parameters=["@__normalizedName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `r`.`Id`, `r`.`ConcurrencyStamp`, `r`.`Name`, `r`.`NormalizedName`
+FROM `Roles` AS `r`
+WHERE `r`.`NormalizedName` = @__normalizedName_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:47:09.7293352+01:00  [WRN] Role "(null)" validation failed: "DuplicateRoleName". (60d773c7)
+2022-01-10T20:47:09.7668624+01:00  [INF] User profile is available. Using '"C:\Users\karli\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest. (7ac5e29c)
+2022-01-10T20:47:09.7775041+01:00  [INF] Executed DbCommand ("1"ms) [Parameters=["@__normalizedUserName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `u`.`Id`, `u`.`AccessFailedCount`, `u`.`ConcurrencyStamp`, `u`.`Email`, `u`.`EmailConfirmed`, `u`.`FirstName`, `u`.`LastName`, `u`.`LockoutEnabled`, `u`.`LockoutEnd`, `u`.`NormalizedEmail`, `u`.`NormalizedUserName`, `u`.`PasswordHash`, `u`.`PhoneNumber`, `u`.`PhoneNumberConfirmed`, `u`.`SecurityStamp`, `u`.`TwoFactorEnabled`, `u`.`UserName`
+FROM `Users` AS `u`
+WHERE `u`.`NormalizedUserName` = @__normalizedUserName_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:47:09.8218546+01:00  [INF] Executed DbCommand ("7"ms) [Parameters=["@__normalizedUserName_0='?' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `u`.`Id`, `u`.`AccessFailedCount`, `u`.`ConcurrencyStamp`, `u`.`Email`, `u`.`EmailConfirmed`, `u`.`FirstName`, `u`.`LastName`, `u`.`LockoutEnabled`, `u`.`LockoutEnd`, `u`.`NormalizedEmail`, `u`.`NormalizedUserName`, `u`.`PasswordHash`, `u`.`PhoneNumber`, `u`.`PhoneNumberConfirmed`, `u`.`SecurityStamp`, `u`.`TwoFactorEnabled`, `u`.`UserName`
+FROM `Users` AS `u`
+WHERE `u`.`NormalizedUserName` = @__normalizedUserName_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:47:10.0369881+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-01-10T20:47:10.0385712+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-01-10T20:47:10.0403235+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-01-10T20:47:10.0416941+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-01-10T20:47:10.0430588+01:00  [INF] Content root path: "C:\Users\karli\OneDrive\Plocha\Karlik.Eshop.Web\Karlik.Eshop.Web" (b5d60022)
+2022-01-10T20:47:10.7734815+01:00 0HMEKE7UQOIEC:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/ - - (ca22a1cb)
+2022-01-10T20:47:10.8758250+01:00 0HMEKE7UQOIEC:00000001 [INF] Executing endpoint '"Karlik.Eshop.Web.Controllers.HomeController.Index (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:47:10.8944378+01:00 0HMEKE7UQOIEC:00000001 [INF] Route matched with "{action = \"Index\", controller = \"Home\", area = \"\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "Karlik.Eshop.Web.Controllers.HomeController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:47:10.8985093+01:00 0HMEKE7UQOIEC:00000001 [INF] Byla zobrazena hlavni stranka (c6e7581b)
+2022-01-10T20:47:10.9017178+01:00 0HMEKE7UQOIEC:00000001 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:47:10.9071996+01:00 0HMEKE7UQOIEC:00000001 [INF] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `c`.`ID`, `c`.`ImageAlt`, `c`.`ImageSource`
+FROM `CarouselItem` AS `c`" (0723d8ff)
+2022-01-10T20:47:10.9151515+01:00 0HMEKE7UQOIEC:00000001 [INF] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`" (0723d8ff)
+2022-01-10T20:47:10.9437775+01:00 0HMEKE7UQOIEC:00000001 [INF] Executing ViewResult, running view "Index". (c83d0e25)
+2022-01-10T20:47:11.0207772+01:00 0HMEKE7UQOIEC:00000001 [INF] Accessing expired session, Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950" (08c5a9e7)
+2022-01-10T20:47:11.0540922+01:00 0HMEKE7UQOIEC:00000001 [INF] Executed ViewResult - view "Index" executed in 109.444ms. (f66409e9)
+2022-01-10T20:47:11.0554141+01:00 0HMEKE7UQOIEC:00000001 [INF] Executed action "Karlik.Eshop.Web.Controllers.HomeController.Index (Karlik.Eshop.Web)" in 160.4883ms (afa2e885)
+2022-01-10T20:47:11.0554987+01:00 0HMEKE7UQOIEC:00000001 [INF] Executed endpoint '"Karlik.Eshop.Web.Controllers.HomeController.Index (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:47:11.0617610+01:00 0HMEKE7UQOIEC:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 200 - text/html;+charset=utf-8 294.3454ms (791a596a)
+2022-01-10T20:47:11.1107574+01:00 0HMEKE7UQOIEC:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/img/Products/4vr3pzdv.ect.jpg - - (ca22a1cb)
+2022-01-10T20:47:11.1109112+01:00 0HMEKE7UQOIEC:00000005 [INF] Request starting HTTP/2 GET https://localhost:5001/img/product1.jpg - - (ca22a1cb)
+2022-01-10T20:47:11.1165328+01:00 0HMEKE7UQOIEC:00000005 [INF] Request finished HTTP/2 GET https://localhost:5001/img/product1.jpg - - - 404 0 - 4.8089ms (791a596a)
+2022-01-10T20:47:11.1170809+01:00 0HMEKE7UQOIEC:00000003 [INF] The file "/img/Products/4vr3pzdv.ect.jpg" was not modified (f1f8d725)
+2022-01-10T20:47:11.1190785+01:00 0HMEKE7UQOIEC:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/img/Products/4vr3pzdv.ect.jpg - - - 304 - image/jpeg 8.5168ms (791a596a)
+2022-01-10T20:47:15.1783811+01:00 0HMEKE7UQOIEC:00000007 [INF] Request starting HTTP/2 GET https://localhost:5001/Admin/Orders - - (ca22a1cb)
+2022-01-10T20:47:15.2062825+01:00 0HMEKE7UQOIEC:00000007 [INF] Authorization was successful. (0d575a54)
+2022-01-10T20:47:15.2067489+01:00 0HMEKE7UQOIEC:00000007 [INF] Executing endpoint '"Hromek.Eshop.Web.Areas.Admin.Controllers.OrdersController.Index (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:47:15.2099303+01:00 0HMEKE7UQOIEC:00000007 [INF] Route matched with "{area = \"Admin\", action = \"Index\", controller = \"Orders\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index()" on controller "Hromek.Eshop.Web.Areas.Admin.Controllers.OrdersController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:47:15.2366973+01:00 0HMEKE7UQOIEC:00000007 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:47:15.2824641+01:00 0HMEKE7UQOIEC:00000007 [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `o`.`ID`, `o`.`DateTimeCreated`, `o`.`OrderNumber`, `o`.`TotalPrice`, `o`.`UserId`, `u`.`Id`, `u`.`AccessFailedCount`, `u`.`ConcurrencyStamp`, `u`.`Email`, `u`.`EmailConfirmed`, `u`.`FirstName`, `u`.`LastName`, `u`.`LockoutEnabled`, `u`.`LockoutEnd`, `u`.`NormalizedEmail`, `u`.`NormalizedUserName`, `u`.`PasswordHash`, `u`.`PhoneNumber`, `u`.`PhoneNumberConfirmed`, `u`.`SecurityStamp`, `u`.`TwoFactorEnabled`, `u`.`UserName`
+FROM `Order` AS `o`
+INNER JOIN `Users` AS `u` ON `o`.`UserId` = `u`.`Id`" (0723d8ff)
+2022-01-10T20:47:15.2900852+01:00 0HMEKE7UQOIEC:00000007 [INF] Executing ViewResult, running view "Index". (c83d0e25)
+2022-01-10T20:47:15.3035507+01:00 0HMEKE7UQOIEC:00000007 [INF] Accessing expired session, Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950" (08c5a9e7)
+2022-01-10T20:47:15.3040511+01:00 0HMEKE7UQOIEC:00000007 [INF] Executed ViewResult - view "Index" executed in 14.8901ms. (f66409e9)
+2022-01-10T20:47:15.3047178+01:00 0HMEKE7UQOIEC:00000007 [INF] Executed action "Hromek.Eshop.Web.Areas.Admin.Controllers.OrdersController.Index (Karlik.Eshop.Web)" in 94.7425ms (afa2e885)
+2022-01-10T20:47:15.3050385+01:00 0HMEKE7UQOIEC:00000007 [INF] Executed endpoint '"Hromek.Eshop.Web.Areas.Admin.Controllers.OrdersController.Index (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:47:15.3069466+01:00 0HMEKE7UQOIEC:00000007 [INF] Request finished HTTP/2 GET https://localhost:5001/Admin/Orders - - - 200 - text/html;+charset=utf-8 128.5686ms (791a596a)
+2022-01-10T20:47:18.0893436+01:00 0HMEKE7UQOIED:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/Admin/Orders - - (ca22a1cb)
+2022-01-10T20:47:18.0956877+01:00 0HMEKE7UQOIED:00000001 [INF] Authorization was successful. (0d575a54)
+2022-01-10T20:47:18.0959746+01:00 0HMEKE7UQOIED:00000001 [INF] Executing endpoint '"Hromek.Eshop.Web.Areas.Admin.Controllers.OrdersController.Index (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:47:18.0964509+01:00 0HMEKE7UQOIED:00000001 [INF] Route matched with "{area = \"Admin\", action = \"Index\", controller = \"Orders\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index()" on controller "Hromek.Eshop.Web.Areas.Admin.Controllers.OrdersController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:47:18.0976701+01:00 0HMEKE7UQOIED:00000001 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:47:18.1087071+01:00 0HMEKE7UQOIED:00000001 [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `o`.`ID`, `o`.`DateTimeCreated`, `o`.`OrderNumber`, `o`.`TotalPrice`, `o`.`UserId`, `u`.`Id`, `u`.`AccessFailedCount`, `u`.`ConcurrencyStamp`, `u`.`Email`, `u`.`EmailConfirmed`, `u`.`FirstName`, `u`.`LastName`, `u`.`LockoutEnabled`, `u`.`LockoutEnd`, `u`.`NormalizedEmail`, `u`.`NormalizedUserName`, `u`.`PasswordHash`, `u`.`PhoneNumber`, `u`.`PhoneNumberConfirmed`, `u`.`SecurityStamp`, `u`.`TwoFactorEnabled`, `u`.`UserName`
+FROM `Order` AS `o`
+INNER JOIN `Users` AS `u` ON `o`.`UserId` = `u`.`Id`" (0723d8ff)
+2022-01-10T20:47:18.1105392+01:00 0HMEKE7UQOIED:00000001 [INF] Executing ViewResult, running view "Index". (c83d0e25)
+2022-01-10T20:47:18.1114363+01:00 0HMEKE7UQOIED:00000001 [INF] Accessing expired session, Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950" (08c5a9e7)
+2022-01-10T20:47:18.1117433+01:00 0HMEKE7UQOIED:00000001 [INF] Executed ViewResult - view "Index" executed in 1.4006ms. (f66409e9)
+2022-01-10T20:47:18.1118048+01:00 0HMEKE7UQOIED:00000001 [INF] Executed action "Hromek.Eshop.Web.Areas.Admin.Controllers.OrdersController.Index (Karlik.Eshop.Web)" in 15.229ms (afa2e885)
+2022-01-10T20:47:18.1118446+01:00 0HMEKE7UQOIED:00000001 [INF] Executed endpoint '"Hromek.Eshop.Web.Areas.Admin.Controllers.OrdersController.Index (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:47:18.1119895+01:00 0HMEKE7UQOIED:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/Admin/Orders - - - 200 - text/html;+charset=utf-8 23.8529ms (791a596a)
+2022-01-10T20:47:19.1798251+01:00 0HMEKE7UQOIED:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/Admin/Product/Select - - (ca22a1cb)
+2022-01-10T20:47:19.1838818+01:00 0HMEKE7UQOIED:00000003 [INF] Authorization was successful. (0d575a54)
+2022-01-10T20:47:19.1848154+01:00 0HMEKE7UQOIED:00000003 [INF] Executing endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Select (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:47:19.1898407+01:00 0HMEKE7UQOIED:00000003 [INF] Route matched with "{area = \"Admin\", action = \"Select\", controller = \"Product\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Select()" on controller "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:47:19.1906560+01:00 0HMEKE7UQOIED:00000003 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:47:19.1923895+01:00 0HMEKE7UQOIED:00000003 [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`" (0723d8ff)
+2022-01-10T20:47:19.1946247+01:00 0HMEKE7UQOIED:00000003 [INF] Executing ViewResult, running view "Select". (c83d0e25)
+2022-01-10T20:47:19.2066363+01:00 0HMEKE7UQOIED:00000003 [INF] Accessing expired session, Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950" (08c5a9e7)
+2022-01-10T20:47:19.2094887+01:00 0HMEKE7UQOIED:00000003 [INF] Executed ViewResult - view "Select" executed in 16.1006ms. (f66409e9)
+2022-01-10T20:47:19.2096449+01:00 0HMEKE7UQOIED:00000003 [INF] Executed action "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Select (Karlik.Eshop.Web)" in 19.7111ms (afa2e885)
+2022-01-10T20:47:19.2098400+01:00 0HMEKE7UQOIED:00000003 [INF] Executed endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Select (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:47:19.2102669+01:00 0HMEKE7UQOIED:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/Admin/Product/Select - - - 200 - text/html;+charset=utf-8 31.0122ms (791a596a)
+2022-01-10T20:47:21.1669374+01:00 0HMEKE7UQOIED:00000005 [INF] Request starting HTTP/2 GET https://localhost:5001/Admin/Product/Edit/2 - - (ca22a1cb)
+2022-01-10T20:47:21.1714607+01:00 0HMEKE7UQOIED:00000005 [INF] Authorization was successful. (0d575a54)
+2022-01-10T20:47:21.1715417+01:00 0HMEKE7UQOIED:00000005 [INF] Executing endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:47:21.1892827+01:00 0HMEKE7UQOIED:00000005 [INF] Route matched with "{area = \"Admin\", action = \"Edit\", controller = \"Product\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Edit(Int32)" on controller "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:47:21.2053262+01:00 0HMEKE7UQOIED:00000005 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:47:21.2135565+01:00 0HMEKE7UQOIED:00000005 [INF] Executed DbCommand ("2"ms) [Parameters=["@__ID_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`
+WHERE `p`.`ID` = @__ID_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:47:21.2142103+01:00 0HMEKE7UQOIED:00000005 [INF] Executing ViewResult, running view "Edit". (c83d0e25)
+2022-01-10T20:47:21.3180435+01:00 0HMEKE7UQOIED:00000005 [INF] Accessing expired session, Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950" (08c5a9e7)
+2022-01-10T20:47:21.3189828+01:00 0HMEKE7UQOIED:00000005 [INF] Executed ViewResult - view "Edit" executed in 105.1941ms. (f66409e9)
+2022-01-10T20:47:21.3190281+01:00 0HMEKE7UQOIED:00000005 [INF] Executed action "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)" in 129.688ms (afa2e885)
+2022-01-10T20:47:21.3190558+01:00 0HMEKE7UQOIED:00000005 [INF] Executed endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:47:21.3191657+01:00 0HMEKE7UQOIED:00000005 [INF] Request finished HTTP/2 GET https://localhost:5001/Admin/Product/Edit/2 - - - 200 - text/html;+charset=utf-8 152.6658ms (791a596a)
+2022-01-10T20:47:32.5520859+01:00 0HMEKE7UQOIEE:00000001 [INF] Request starting HTTP/2 POST https://localhost:5001/Admin/Product/Edit/2 multipart/form-data;+boundary=----WebKitFormBoundarygXE6TsBjNkCUjcsM 1183 (ca22a1cb)
+2022-01-10T20:47:32.5534535+01:00 0HMEKE7UQOIEE:00000001 [INF] Authorization was successful. (0d575a54)
+2022-01-10T20:47:32.5535110+01:00 0HMEKE7UQOIEE:00000001 [INF] Executing endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:47:32.5602645+01:00 0HMEKE7UQOIEE:00000001 [INF] Route matched with "{area = \"Admin\", action = \"Edit\", controller = \"Product\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Edit(Karlik.Eshop.Web.Models.Entity.ProductItem)" on controller "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:47:32.5880044+01:00 0HMEKE7UQOIEE:00000001 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:47:32.5908844+01:00 0HMEKE7UQOIEE:00000001 [INF] Executed DbCommand ("0"ms) [Parameters=["@__product_ID_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`
+WHERE `p`.`ID` = @__product_ID_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:47:32.6656318+01:00 0HMEKE7UQOIEE:00000001 [INF] Executed DbCommand ("1"ms) [Parameters=["@p3='?' (DbType = Int32), @p0='?' (DbType = Double), @p1='?' (Size = 50), @p2='?' (Size = 20)"], CommandType='Text', CommandTimeout='30']"
+""UPDATE `ProductItem` SET `Price` = @p0, `ProductName` = @p1, `SKU` = @p2
+WHERE `ID` = @p3;
+SELECT ROW_COUNT();" (0723d8ff)
+2022-01-10T20:47:32.6905778+01:00 0HMEKE7UQOIEE:00000001 [INF] Executing RedirectResult, redirecting to "/Admin/Product/Select". (d98d540e)
+2022-01-10T20:47:32.6907344+01:00 0HMEKE7UQOIEE:00000001 [INF] Executed action "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)" in 130.416ms (afa2e885)
+2022-01-10T20:47:32.6907641+01:00 0HMEKE7UQOIEE:00000001 [INF] Executed endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Edit (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:47:32.6910288+01:00 0HMEKE7UQOIEE:00000001 [INF] Request finished HTTP/2 POST https://localhost:5001/Admin/Product/Edit/2 multipart/form-data;+boundary=----WebKitFormBoundarygXE6TsBjNkCUjcsM 1183 - 302 0 - 139.0091ms (791a596a)
+2022-01-10T20:47:32.6939531+01:00 0HMEKE7UQOIEE:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/Admin/Product/Select - - (ca22a1cb)
+2022-01-10T20:47:32.6943669+01:00 0HMEKE7UQOIEE:00000003 [INF] Authorization was successful. (0d575a54)
+2022-01-10T20:47:32.6943982+01:00 0HMEKE7UQOIEE:00000003 [INF] Executing endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Select (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:47:32.6944634+01:00 0HMEKE7UQOIEE:00000003 [INF] Route matched with "{area = \"Admin\", action = \"Select\", controller = \"Product\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Select()" on controller "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:47:32.6946304+01:00 0HMEKE7UQOIEE:00000003 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:47:32.6954940+01:00 0HMEKE7UQOIEE:00000003 [INF] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`" (0723d8ff)
+2022-01-10T20:47:32.6956388+01:00 0HMEKE7UQOIEE:00000003 [INF] Executing ViewResult, running view "Select". (c83d0e25)
+2022-01-10T20:47:32.6960042+01:00 0HMEKE7UQOIEE:00000003 [INF] Accessing expired session, Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950" (08c5a9e7)
+2022-01-10T20:47:32.6962139+01:00 0HMEKE7UQOIEE:00000003 [INF] Executed ViewResult - view "Select" executed in 0.5859ms. (f66409e9)
+2022-01-10T20:47:32.6962471+01:00 0HMEKE7UQOIEE:00000003 [INF] Executed action "Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Select (Karlik.Eshop.Web)" in 1.7623ms (afa2e885)
+2022-01-10T20:47:32.6962657+01:00 0HMEKE7UQOIEE:00000003 [INF] Executed endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.ProductController.Select (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:47:32.6963675+01:00 0HMEKE7UQOIEE:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/Admin/Product/Select - - - 200 - text/html;+charset=utf-8 2.6086ms (791a596a)
+2022-01-10T20:47:37.1081561+01:00 0HMEKE7UQOIEE:00000005 [INF] Request starting HTTP/2 GET https://localhost:5001/ - - (ca22a1cb)
+2022-01-10T20:47:37.1093523+01:00 0HMEKE7UQOIEE:00000005 [INF] Executing endpoint '"Karlik.Eshop.Web.Controllers.HomeController.Index (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:47:37.1095376+01:00 0HMEKE7UQOIEE:00000005 [INF] Route matched with "{action = \"Index\", controller = \"Home\", area = \"\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "Karlik.Eshop.Web.Controllers.HomeController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:47:37.1156487+01:00 0HMEKE7UQOIEE:00000005 [INF] Byla zobrazena hlavni stranka (c6e7581b)
+2022-01-10T20:47:37.1164618+01:00 0HMEKE7UQOIEE:00000005 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:47:37.1187175+01:00 0HMEKE7UQOIEE:00000005 [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `c`.`ID`, `c`.`ImageAlt`, `c`.`ImageSource`
+FROM `CarouselItem` AS `c`" (0723d8ff)
+2022-01-10T20:47:37.1216181+01:00 0HMEKE7UQOIEE:00000005 [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`" (0723d8ff)
+2022-01-10T20:47:37.1220368+01:00 0HMEKE7UQOIEE:00000005 [INF] Executing ViewResult, running view "Index". (c83d0e25)
+2022-01-10T20:47:37.1229622+01:00 0HMEKE7UQOIEE:00000005 [INF] Accessing expired session, Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950" (08c5a9e7)
+2022-01-10T20:47:37.1235619+01:00 0HMEKE7UQOIEE:00000005 [INF] Executed ViewResult - view "Index" executed in 1.567ms. (f66409e9)
+2022-01-10T20:47:37.1236777+01:00 0HMEKE7UQOIEE:00000005 [INF] Executed action "Karlik.Eshop.Web.Controllers.HomeController.Index (Karlik.Eshop.Web)" in 14.0781ms (afa2e885)
+2022-01-10T20:47:37.1238123+01:00 0HMEKE7UQOIEE:00000005 [INF] Executed endpoint '"Karlik.Eshop.Web.Controllers.HomeController.Index (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:47:37.1241504+01:00 0HMEKE7UQOIEE:00000005 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 200 - text/html;+charset=utf-8 16.5410ms (791a596a)
+2022-01-10T20:47:37.1772195+01:00 0HMEKE7UQOIEE:00000007 [INF] Request starting HTTP/2 GET https://localhost:5001/img/product1.jpg - - (ca22a1cb)
+2022-01-10T20:47:37.1781177+01:00 0HMEKE7UQOIEE:00000007 [INF] Request finished HTTP/2 GET https://localhost:5001/img/product1.jpg - - - 404 0 - 1.0125ms (791a596a)
+2022-01-10T20:47:39.4201491+01:00 0HMEKE7UQOIEF:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/Product/Detail/2 - - (ca22a1cb)
+2022-01-10T20:47:39.4219649+01:00 0HMEKE7UQOIEF:00000001 [INF] Executing endpoint '"Karlik.Eshop.Web.Controllers.ProductController.Detail (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:47:39.4244436+01:00 0HMEKE7UQOIEF:00000001 [INF] Route matched with "{action = \"Detail\", controller = \"Product\", area = \"\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Detail(Int32)" on controller "Karlik.Eshop.Web.Controllers.ProductController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:47:39.4291778+01:00 0HMEKE7UQOIEF:00000001 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:47:39.4404061+01:00 0HMEKE7UQOIEF:00000001 [INF] Executed DbCommand ("1"ms) [Parameters=["@__id_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`
+WHERE `p`.`ID` = @__id_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:47:39.4415162+01:00 0HMEKE7UQOIEF:00000001 [INF] Executing ViewResult, running view "Detail". (c83d0e25)
+2022-01-10T20:47:39.4529390+01:00 0HMEKE7UQOIEF:00000001 [INF] Accessing expired session, Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950" (08c5a9e7)
+2022-01-10T20:47:39.4553000+01:00 0HMEKE7UQOIEF:00000001 [INF] Executed ViewResult - view "Detail" executed in 14.5922ms. (f66409e9)
+2022-01-10T20:47:39.4553718+01:00 0HMEKE7UQOIEF:00000001 [INF] Executed action "Karlik.Eshop.Web.Controllers.ProductController.Detail (Karlik.Eshop.Web)" in 30.8543ms (afa2e885)
+2022-01-10T20:47:39.4553980+01:00 0HMEKE7UQOIEF:00000001 [INF] Executed endpoint '"Karlik.Eshop.Web.Controllers.ProductController.Detail (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:47:39.4555422+01:00 0HMEKE7UQOIEF:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/Product/Detail/2 - - - 200 - text/html;+charset=utf-8 36.1116ms (791a596a)
+2022-01-10T20:47:43.6109910+01:00 0HMEKE7UQOIEF:00000003 [INF] Request starting HTTP/2 POST https://localhost:5001/Customer/CustomerOrderNotCart/AddOrderItemsToSession application/x-www-form-urlencoded;+charset=UTF-8 11 (ca22a1cb)
+2022-01-10T20:47:43.6136405+01:00 0HMEKE7UQOIEF:00000003 [INF] Authorization was successful. (0d575a54)
+2022-01-10T20:47:43.6137749+01:00 0HMEKE7UQOIEF:00000003 [INF] Executing endpoint '"Karlik.Eshop.Web.Areas.Customer.Controllers.CustomerOrderNotCartController.AddOrderItemsToSession (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:47:43.6170376+01:00 0HMEKE7UQOIEF:00000003 [INF] Route matched with "{area = \"Customer\", action = \"AddOrderItemsToSession\", controller = \"CustomerOrderNotCart\"}". Executing controller action with signature "Double AddOrderItemsToSession(System.Nullable`1[System.Int32])" on controller "Karlik.Eshop.Web.Areas.Customer.Controllers.CustomerOrderNotCartController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:47:43.6299503+01:00 0HMEKE7UQOIEF:00000003 [INF] Accessing expired session, Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950" (08c5a9e7)
+2022-01-10T20:47:43.6316761+01:00 0HMEKE7UQOIEF:00000003 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:47:43.6417602+01:00 0HMEKE7UQOIEF:00000003 [INF] Executed DbCommand ("1"ms) [Parameters=["@__productId_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`
+WHERE `p`.`ID` = @__productId_0
+LIMIT 1" (0723d8ff)
+2022-01-10T20:47:43.8027658+01:00 0HMEKE7UQOIEF:00000003 [INF] Executing "ObjectResult", writing value of type '"System.Double"'. (605b4265)
+2022-01-10T20:47:43.8113225+01:00 0HMEKE7UQOIEF:00000003 [INF] Executed action "Karlik.Eshop.Web.Areas.Customer.Controllers.CustomerOrderNotCartController.AddOrderItemsToSession (Karlik.Eshop.Web)" in 194.1708ms (afa2e885)
+2022-01-10T20:47:43.8113662+01:00 0HMEKE7UQOIEF:00000003 [INF] Executed endpoint '"Karlik.Eshop.Web.Areas.Customer.Controllers.CustomerOrderNotCartController.AddOrderItemsToSession (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:47:43.8116917+01:00 0HMEKE7UQOIEF:00000003 [INF] Session started; Key:"a79ad722-f3d5-ace8-e5cc-3bc3be6a8950", Id:"76c1f055-6be2-c4a9-c04f-77f70e5ecfb4" (1d7cf8c0)
+2022-01-10T20:47:43.8122412+01:00 0HMEKE7UQOIEF:00000003 [INF] Request finished HTTP/2 POST https://localhost:5001/Customer/CustomerOrderNotCart/AddOrderItemsToSession application/x-www-form-urlencoded;+charset=UTF-8 11 - 200 - application/json;+charset=utf-8 201.9393ms (791a596a)
+2022-01-10T20:47:50.6779980+01:00 0HMEKE7UQOIEG:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/ - - (ca22a1cb)
+2022-01-10T20:47:50.6795508+01:00 0HMEKE7UQOIEG:00000001 [INF] Executing endpoint '"Karlik.Eshop.Web.Controllers.HomeController.Index (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:47:50.6798762+01:00 0HMEKE7UQOIEG:00000001 [INF] Route matched with "{action = \"Index\", controller = \"Home\", area = \"\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "Karlik.Eshop.Web.Controllers.HomeController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:47:50.6862455+01:00 0HMEKE7UQOIEG:00000001 [INF] Byla zobrazena hlavni stranka (c6e7581b)
+2022-01-10T20:47:50.6874949+01:00 0HMEKE7UQOIEG:00000001 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:47:50.6921959+01:00 0HMEKE7UQOIEG:00000001 [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `c`.`ID`, `c`.`ImageAlt`, `c`.`ImageSource`
+FROM `CarouselItem` AS `c`" (0723d8ff)
+2022-01-10T20:47:50.6936204+01:00 0HMEKE7UQOIEG:00000001 [INF] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `p`.`ID`, `p`.`Detail`, `p`.`ImageAlt`, `p`.`ImageSource`, `p`.`Price`, `p`.`ProductName`, `p`.`SKU`, `p`.`Sale`
+FROM `ProductItem` AS `p`" (0723d8ff)
+2022-01-10T20:47:50.6941074+01:00 0HMEKE7UQOIEG:00000001 [INF] Executing ViewResult, running view "Index". (c83d0e25)
+2022-01-10T20:47:50.6971098+01:00 0HMEKE7UQOIEG:00000001 [INF] Executed ViewResult - view "Index" executed in 3.0789ms. (f66409e9)
+2022-01-10T20:47:50.6971885+01:00 0HMEKE7UQOIEG:00000001 [INF] Executed action "Karlik.Eshop.Web.Controllers.HomeController.Index (Karlik.Eshop.Web)" in 17.1829ms (afa2e885)
+2022-01-10T20:47:50.6972295+01:00 0HMEKE7UQOIEG:00000001 [INF] Executed endpoint '"Karlik.Eshop.Web.Controllers.HomeController.Index (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:47:50.6974408+01:00 0HMEKE7UQOIEG:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 200 - text/html;+charset=utf-8 20.2685ms (791a596a)
+2022-01-10T20:47:50.7389588+01:00 0HMEKE7UQOIEG:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/img/product1.jpg - - (ca22a1cb)
+2022-01-10T20:47:50.7399618+01:00 0HMEKE7UQOIEG:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/img/product1.jpg - - - 404 0 - 1.3443ms (791a596a)
+2022-01-10T20:48:03.6167913+01:00 0HMEKE7UQOIEH:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/Home/Privacy - - (ca22a1cb)
+2022-01-10T20:48:03.6187428+01:00 0HMEKE7UQOIEH:00000001 [INF] Executing endpoint '"Karlik.Eshop.Web.Controllers.HomeController.Privacy (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:48:03.6221686+01:00 0HMEKE7UQOIEH:00000001 [INF] Route matched with "{action = \"Privacy\", controller = \"Home\", area = \"\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Privacy()" on controller "Karlik.Eshop.Web.Controllers.HomeController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:48:03.6234066+01:00 0HMEKE7UQOIEH:00000001 [INF] Executing ViewResult, running view "Privacy". (c83d0e25)
+2022-01-10T20:48:03.6260046+01:00 0HMEKE7UQOIEH:00000001 [INF] Executed ViewResult - view "Privacy" executed in 3.2908ms. (f66409e9)
+2022-01-10T20:48:03.6260740+01:00 0HMEKE7UQOIEH:00000001 [INF] Executed action "Karlik.Eshop.Web.Controllers.HomeController.Privacy (Karlik.Eshop.Web)" in 3.8345ms (afa2e885)
+2022-01-10T20:48:03.6261437+01:00 0HMEKE7UQOIEH:00000001 [INF] Executed endpoint '"Karlik.Eshop.Web.Controllers.HomeController.Privacy (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:48:03.6266676+01:00 0HMEKE7UQOIEH:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/Home/Privacy - - - 200 - text/html;+charset=utf-8 10.5985ms (791a596a)
+2022-01-10T20:48:06.8865961+01:00 0HMEKE7UQOIEH:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/Admin/Carousel/Select - - (ca22a1cb)
+2022-01-10T20:48:06.8884642+01:00 0HMEKE7UQOIEH:00000003 [INF] Authorization was successful. (0d575a54)
+2022-01-10T20:48:06.8886074+01:00 0HMEKE7UQOIEH:00000003 [INF] Executing endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.CarouselController.Select (Karlik.Eshop.Web)"' (500cc934)
+2022-01-10T20:48:06.8914483+01:00 0HMEKE7UQOIEH:00000003 [INF] Route matched with "{area = \"Admin\", action = \"Select\", controller = \"Carousel\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Select()" on controller "Karlik.Eshop.Web.Areas.Admin.Controllers.CarouselController" ("Karlik.Eshop.Web"). (122b2fdf)
+2022-01-10T20:48:06.8933397+01:00 0HMEKE7UQOIEH:00000003 [INF] Entity Framework Core "5.0.11" initialized '"EshopDbContext"' using provider '"Pomelo.EntityFrameworkCore.MySql"' with options: "ServerVersion 8.0.26-mysql " (9958f5bb)
+2022-01-10T20:48:06.8951288+01:00 0HMEKE7UQOIEH:00000003 [INF] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT `c`.`ID`, `c`.`ImageAlt`, `c`.`ImageSource`
+FROM `CarouselItem` AS `c`" (0723d8ff)
+2022-01-10T20:48:06.8973181+01:00 0HMEKE7UQOIEH:00000003 [INF] Executing ViewResult, running view "Select". (c83d0e25)
+2022-01-10T20:48:06.9103790+01:00 0HMEKE7UQOIEH:00000003 [INF] Executed ViewResult - view "Select" executed in 13.9372ms. (f66409e9)
+2022-01-10T20:48:06.9106336+01:00 0HMEKE7UQOIEH:00000003 [INF] Executed action "Karlik.Eshop.Web.Areas.Admin.Controllers.CarouselController.Select (Karlik.Eshop.Web)" in 19.0181ms (afa2e885)
+2022-01-10T20:48:06.9108539+01:00 0HMEKE7UQOIEH:00000003 [INF] Executed endpoint '"Karlik.Eshop.Web.Areas.Admin.Controllers.CarouselController.Select (Karlik.Eshop.Web)"' (99874f2b)
+2022-01-10T20:48:06.9118150+01:00 0HMEKE7UQOIEH:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/Admin/Carousel/Select - - - 200 - text/html;+charset=utf-8 25.5512ms (791a596a)

@@ -1,0 +1,73 @@
+﻿@using Karlik.Eshop.Web.Areas.Admin.Controllers
+@model ProductViewModel
+
+@{
+    if (String.IsNullOrWhiteSpace(ViewBag.Action) == false)
+    {
+    <form asp-action="@ViewBag.Action" method="post" enctype="multipart/form-data">
+        @if (ViewBag.Action == nameof(ProductController.Edit))
+        {
+            <input type="hidden" asp-for="ProductItem.ID" class="form-control">
+        }
+
+        <div class="form-group">
+            <label asp-for="ProductItem.ProductName">Product Name</label>
+            <input asp-for="ProductItem.ProductName" type="text" class="form-control" placeholder="Product Name">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductItem.ProductNameCZ">Product Name CZ</label>
+            <input asp-for="ProductItem.ProductNameCZ" type="text" class="form-control" placeholder="Product Name">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductItem.SKU">SKUe</label>
+            <input asp-for="ProductItem.SKU" type="text" class="form-control" placeholder="SKU">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductItem.Price">Price</label>
+            <input asp-for="ProductItem.Price" type="text" class="form-control" placeholder="Price">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductItem.Sale">Sale</label>
+            <input asp-for="ProductItem.Sale" type="text" class="form-control" placeholder="Sale">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductItem.Detail">Detail</label>
+            <input asp-for="ProductItem.Detail" type="text" class="form-control" placeholder="Detail">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductItem.DetailCZ">Detail CZ</label>
+            <input asp-for="ProductItem.DetailCZ" type="text" class="form-control" placeholder="Detail">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductItem.Image">Image source</label>
+            <input asp-for="ProductItem.Image" class="form-control-file" accept="image/*" placeholder="Enter Image File">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductItem.ImageAlt">Image Alt</label>
+            <input asp-for="ProductItem.ImageAlt" type="text" class="form-control" placeholder="Image Alt">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductItem.ImageAltCZ">Image Alt CZ</label>
+            <input asp-for="ProductItem.ImageAltCZ" type="text" class="form-control" placeholder="Image Alt">
+        </div>
+
+        @if (ViewBag.Action == nameof(ProductController.Edit))
+        {
+            <button type="submit" class="btn btn-info">Editovat</button>
+        }
+        else
+        {
+            <button type="submit" class="btn btn-success">Vytvorit</button>
+        }
+    </form>
+    }
+}

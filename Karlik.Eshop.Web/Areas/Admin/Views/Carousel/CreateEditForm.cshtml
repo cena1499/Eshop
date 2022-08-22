@@ -1,0 +1,40 @@
+﻿@using Karlik.Eshop.Web.Areas.Admin.Controllers
+@model CarouselViewModel
+
+@{
+if (String.IsNullOrWhiteSpace(ViewBag.Action) == false)
+    {
+    <form asp-action="@ViewBag.Action" method="post" enctype="multipart/form-data">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        @if (ViewBag.Action == nameof(CarouselController.Edit))
+        {
+            <input type="hidden" asp-for="CarouselItem.ID" class="form-control">
+        }
+        <div class="form-group">
+            <label asp-for="CarouselItem.Image">Image source</label>
+            <input id="fileupload" asp-for="CarouselItem.Image" class="form-control-file" accept="image/*" placeholder="Enter Image File">
+            <span asp-validation-for="CarouselItem.Image" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="CarouselItem.ImageAlt">Image Alt</label>
+            <input asp-for="CarouselItem.ImageAlt" type="text" class="form-control" placeholder="Image Alt">
+            <span asp-validation-for="CarouselItem.ImageAlt" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="CarouselItem.ImageAltCZ">Image Alt CZ</label>
+            <input asp-for="CarouselItem.ImageAltCZ" type="text" class="form-control" placeholder="Image Alt">
+            <span asp-validation-for="CarouselItem.ImageAltCZ" class="text-danger"></span>
+        </div>
+        @if (ViewBag.Action == nameof(CarouselController.Edit))
+        {
+            <button type="submit" class="btn btn-info">Editovat</button>
+        }
+        else
+        {
+            <button type="submit" class="btn btn-success">Vytvorit</button>
+        }
+    </form>
+    }
+}

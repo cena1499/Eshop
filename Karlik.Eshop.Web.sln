@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Karlik.Eshop.Web", "Karlik.Eshop.Web\Karlik.Eshop.Web.csproj", "{14969F9B-E9C7-40D4-B736-80A4D121E782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karlik.Eshop.Web.Tests", "Karlik.Eshop.Web.Tests\Karlik.Eshop.Web.Tests.csproj", "{28452878-AFB0-4D90-AF20-FE7D405E1230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14969F9B-E9C7-40D4-B736-80A4D121E782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14969F9B-E9C7-40D4-B736-80A4D121E782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14969F9B-E9C7-40D4-B736-80A4D121E782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14969F9B-E9C7-40D4-B736-80A4D121E782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28452878-AFB0-4D90-AF20-FE7D405E1230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28452878-AFB0-4D90-AF20-FE7D405E1230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28452878-AFB0-4D90-AF20-FE7D405E1230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28452878-AFB0-4D90-AF20-FE7D405E1230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92AD8E4C-E20A-4253-8CED-933DC8E8907D}
+	EndGlobalSection
+EndGlobal
